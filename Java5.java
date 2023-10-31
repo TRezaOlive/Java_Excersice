@@ -7,8 +7,7 @@ public class Java5 {
 		int y=10;
 		int a=x/y;
 		int b=x%y;
-		System.out.print("最下位桁を除いた値は："+a+"です");
-		System.out.println(System.lineSeparator());
+		System.out.println("最下位桁を除いた値は："+a+"です");
 		System.out.print("最下位桁は："+b+"です");
 
 	}
